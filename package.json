@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "postcss": "^8.4.35",
     "random-words": "^2.0.1"
   },
   "devDependencies": {
