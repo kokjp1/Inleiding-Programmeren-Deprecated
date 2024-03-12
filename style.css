@@ -1,0 +1,24 @@
+body {
+    background-color: grey
+}
+
+main {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    width:20%;
+}
+
+#generate {
+    margin: 1em;    
+}
+
+img {
+    width: 25%;
+    height: auto;
+    margin: 1em;
+}
